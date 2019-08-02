@@ -1,6 +1,6 @@
 # Beasts: A render that doesn't lie
 
-My solution to Beasts 3, a problem that is part of the Watch and Code course.
+My solution to one of the Beasts problem that is part of the Watch and Code course.
 
 ## Question Prompt
 In TodoMVC jQuery, render does much more than render data.
