@@ -1,4 +1,4 @@
-# Beasts 3: A render that doesn't lie
+# Beasts: A render that doesn't lie
 
 My solution to Beasts 3, a problem that is part of the Watch and Code course.
 
